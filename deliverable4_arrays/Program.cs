@@ -14,7 +14,7 @@ namespace deliverable4_arrays
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Enter an integer 5 - 20");
+            Console.WriteLine("Enter an integer 5 - 25");
 
             int input = int.Parse(Console.ReadLine());
 
