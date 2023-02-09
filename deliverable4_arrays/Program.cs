@@ -18,7 +18,7 @@ namespace deliverable4_arrays
 
             int input = int.Parse(Console.ReadLine());
 
-            if ( input >= 5 && input <= 20 )
+            if ( input >= 5 && input <= 25 )
             {
                 int[] even = new int[input];
                 int[] odd = new int[input];
